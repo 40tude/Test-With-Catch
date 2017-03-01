@@ -6,8 +6,6 @@
 #include "catch.hpp"
 
 
-//using namespace std;
-
 int main(int argc, char ** argv) {
 	// If the LAST argument is "-p", then pause after the tests are run.
 	bool pause_after_test = true;
